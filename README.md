@@ -1,2 +1,2 @@
-# Breakout-Clone
- A clone of breakout in java
+# Breakout Clone
+ A clone of breakout made in Java.
